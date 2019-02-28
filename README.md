@@ -1,11 +1,11 @@
-# Título del trabajo
+﻿# Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+PONG!
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+ÁNGEL SANZ DÍAZ: angelsanzdiaz; ALBERTO PÉREZ ARNAL: albertoperezarnal
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+El objetivo es realizar el clásico videojuego PONG manejado a través de arduino siendo los mandos unos potenciómetros.
