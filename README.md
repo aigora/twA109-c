@@ -4,7 +4,7 @@
 
 ## Objetivos del trabajo: 
 * Realizar el clásico videojuego PONG en processing y comunicarnos con una placa arduino para manejar los mandos. 
-* Mediante potenciómetros se manejarían las raquetas, ya que estas son unidirecciones
+* Mediante potenciómetros se manejarían las raquetas, ya que estas son unidireccionales
 * Diseñar unos mandos en impresión 3d para su correcto manejo y mejorar la ergonomía
 ## Sensores y actuadores 
 
