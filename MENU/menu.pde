@@ -10,7 +10,7 @@ int pantalla = 0;
 int state = 0;
 int selector=0; 
 int retraso;
-int tiempo = 10;
+int tiempo = 100;
 
 
 void setup(){
