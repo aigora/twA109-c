@@ -12,4 +12,4 @@
 * Actuadores: se utilizará la pantalla del ordenador para mostrar el juego.
 
 ## NOTAS
-* Todavía falta unir el menú con el juego, y espero poder arreglar algunos bugs con el rebote de las raquetas 
+* El código ya está en su versión final
